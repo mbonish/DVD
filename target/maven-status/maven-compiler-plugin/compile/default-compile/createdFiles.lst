@@ -1,0 +1,9 @@
+DVDLib\dao\DVDLibDao.class
+DVDLib\App.class
+DVDLib\dao\DVDLibFileDaoImpl.class
+DVDLib\controller\DVDLibController.class
+DVDLib\UI\UserIO.class
+DVDLib\UI\DVDLibView.class
+DVDLib\dao\DVDLibException.class
+DVDLib\UI\UserIOConsoleImpl.class
+DVDLib\dto\DVD.class
